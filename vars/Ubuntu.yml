@@ -1,0 +1,10 @@
+---
+redmine_nginx_package: nginx
+redmine_nginx_service: nginx
+redmine_packages:
+  - ruby
+  - ruby-dev
+  - imagemagick
+  - libmagick++-dev
+  - libmysqlclient-dev
+  - libsqlite3-dev
