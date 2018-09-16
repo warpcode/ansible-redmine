@@ -4,6 +4,7 @@ redmine_nginx_service: nginx
 redmine_packages:
   - ruby
   - ruby-dev
+  - git-core
   - imagemagick
   - libmagick++-dev
   - libmysqlclient-dev
